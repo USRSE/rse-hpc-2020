@@ -30,6 +30,7 @@ description: RSE-HPC-2020 Workshop at SC20
 # List of links in the navigation bar
 navbar-links:
 
+  Home: ""
   About: 
 #    - Overview & Goals: "about"
     - Agenda: "agenda"
