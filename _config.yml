@@ -32,7 +32,9 @@ navbar-links:
 
   About: 
 #    - Overview & Goals: "about"
-    - Organizing Committee: "committee"
+    - Agenda: "agenda"
+    - Call for Submissions: "call"
+    - Committees: "committee"
 #  Participants:
 #    - Application: "application"
 #    - Venue: "venue"
