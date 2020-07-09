@@ -5,4 +5,4 @@
 This is the website landing page for the RSE-HPC-2020 workshop to be
 held in conjunction with SC20 in Atlanta, GA, November 16, 2020.
 
-Site is under construction.
+The deployed site is [here](https://us-rse.org/rse-hpc-2020/).
