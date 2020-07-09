@@ -23,6 +23,7 @@ permalink: /committee/
 - Mozhgan Kabiri Chimeh, NVIDIA, UK
 - Ian Cosden, Princeton University, USA
 - Niels Drost, eScience Center, Netherlands
+- Rinku Gupta, Argonne National Laboratory, USA
 - Robert Haines, University of Manchester, UK
 - Scott Henwood, CANARIE Inc., Canada
 - Catherine Jones, Science and Technology Facilities Council, UK
