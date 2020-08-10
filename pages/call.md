@@ -30,7 +30,7 @@ Submission website:  <https://easychair.org/conferences/?conf=rsehpc2020>
 - Submissions due:  Friday, August 14, 2020
 - Notifications sent:  Friday, September 11, 2020
 - Program finalized:  Friday, October 2, 2020
-- Workshop date:  Monday, November 16, 2020
+- Workshop date:  Thursday, November 12, 2020
 
 ### Questions?
 
