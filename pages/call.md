@@ -21,7 +21,7 @@ We also welcome proposals for discussion topics.  Proposals should consist of a 
 
 We particularly encourage submissions from first-time conference presenters, and from members of groups that have historically been underrepresented in the HPC community.
 
-Papers and discussion topics should be submitted using the EasyChair link below.  The deadline for submissions is Friday, ~August 14~ August 28, 2020, at 11:59 PM AoE (UTC-12).
+Papers and discussion topics should be submitted using the EasyChair link below.  The deadline for submissions is Friday, ~~August 14~~ August 28, 2020, at 11:59 PM AoE (UTC-12).
 We will ask the authors of accepted submissions to self-publish their submissions (after revisions, if they so choose) to an archival repository (e.g. Zenodo, figshare, OSF). Our website will then provide links to those self-published documents.
 
 Submission website:  <https://easychair.org/conferences/?conf=rsehpc2020>
