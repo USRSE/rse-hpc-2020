@@ -4,7 +4,7 @@ title: Agenda
 permalink: /agenda/
 ---
 
-### Agenda
+[Link to workshop on SC20 website](https://sc20.supercomputing.org/session/?sess=sess217)
 
 *All times are Eastern Standard Time (UTC-5).*
 
