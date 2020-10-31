@@ -36,6 +36,7 @@ navbar-links:
     - Agenda: "agenda"
     - Call for Submissions: "call"
     - Committees: "committee"
+    - Position Papers: "papers"
 #  Participants:
 #    - Application: "application"
 #    - Venue: "venue"
