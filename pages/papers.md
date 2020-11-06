@@ -27,7 +27,7 @@ and Carlos Jaime Barrios Hernandez, Universidad Industrial de Santander:
 _SC3UIS Research Software Engineering Ecosystem for Scientific Computing_
 
 Rinku Gupta, Argonne National Laboratory:
-_Understanding the Manifold Gap for RSE Recognition in National Laboratories_
+[Understanding the Manifold Gap for RSE Recognition in National Laboratories](https://doi.org/10.5281/zenodo.4250678)
 
 Gijs van den Oord, Victor Azizi, Alessio Sclocco, Georges-Emmanuel Moulard,
 David Guibert, Jisk Attema, Erwan Raffin and Ben van Werkhoven, Netherlands
