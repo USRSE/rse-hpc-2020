@@ -11,6 +11,7 @@ permalink: /agenda/
 Thursday, November 12, 2020
 
 - 10:00 am -- Session 1:  Introductory talks
+    - Session Chair:  Charles Ferenbaugh, Los Alamos National Laboratory
     - Introduction and overview (5 minutes)
     - Keynotes (20 minutes)
         - _The Birth of RSE_ - Simon Hettrick, Software Sustainability Institute
@@ -22,6 +23,7 @@ Thursday, November 12, 2020
     - Q & A (20 minutes)
 - 11:00 am -- Break
 - 11:30 am -- Session 2:  Panel discussion:  Building RSE Teams and Groups
+    - Session Chair:  Daniel S. Katz, University of Illinois Urbana-Champaign
     - Panelist introductions (15 minutes)
         - Reed Milewicz, Sandia National Laboratory
         - Jeremy Cohen, Imperial College London
@@ -31,6 +33,7 @@ Thursday, November 12, 2020
     - Discussion (45 minutes)
 - 12:30 pm -- Break
 - 1:00 pm -- Session 3:  Panel discussion:  Supporting RSE Careers
+    - Session Chair:  Sandra Gesing, University of Notre Dame
     - Panelist introductions (12 minutes)
         - Joanna Leng, University of Leeds
         - Ian Cosden, Princeton University
