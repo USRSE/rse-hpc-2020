@@ -38,7 +38,7 @@ Robert Sinkovits, San Diego Supercomputer Center:
 _Recommendations for RSEs based on experiences from SDSC and ECSS_
 
 Bernadette Boscoe, UCLA:
-_RSEs as Maintainers: Keeping Code Alive_
+[RSEs as Maintainers: Keeping Code Alive](https://doi.org/10.5281/zenodo.4270655)
 
 Stephanie Lieggi, Ivo Jimenez, Jeffrey LeFevre and Carlos Maltzah, UC Santa
 Cruz:
