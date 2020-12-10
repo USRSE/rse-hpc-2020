@@ -20,7 +20,7 @@ Jeremy Cohen and Mark Woodbridge, Imperial College London:
 [RSEs in Research? RSEs in IT?: Finding a suitable home for RSEs](https://arxiv.org/abs/2010.10477)
 
 Jeffrey Carver, University of Alabama and Ian Cosden, Princeton University:
-_INnovative Training Enabled by a Research Software Engineering Community of Trainers (INTERSECT)_
+[INnovative Training Enabled by a Research Software Engineering Community of Trainers (INTERSECT)](http://dx.doi.org/10.5281/zenodo.4281287)
 
 Emilio Justiniano Carcamo Troconis, Jathinson Meneses Mendoza, Gabriel Pedraza
 and Carlos Jaime Barrios Hernandez, Universidad Industrial de Santander:
@@ -40,9 +40,9 @@ _Recommendations for RSEs based on experiences from SDSC and ECSS_
 Bernadette Boscoe, UCLA:
 [RSEs as Maintainers: Keeping Code Alive](https://doi.org/10.5281/zenodo.4270655)
 
-Stephanie Lieggi, Ivo Jimenez, Jeffrey LeFevre and Carlos Maltzah, UC Santa
+Stephanie Lieggi, Ivo Jimenez, Jeffrey LeFevre and Carlos Maltzahn, UC Santa
 Cruz:
-_The CROSS Incubator: A Case Study for funding and training RSEs_
+[The CROSS Incubator: A Case Study for funding and training RSEs](https://arxiv.org/abs/2012.01144)
 
 Mahmood Mohammadi Shad, Harvard University:
 _Building a Research Software Engineering Team: Harvard University Case Study_

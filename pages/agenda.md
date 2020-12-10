@@ -39,7 +39,7 @@ I
         - Joanna Leng, University of Leeds
         - [Ian Cosden, Princeton University](https://drive.google.com/file/d/1TSSV2Ba6n8VB36qYthe0BQOFclzVBLgg/view?usp=sharing)
         - Rinku Gupta, Argonne National Laboratory
-        - Carlos Maltzahn, UC Santa Cruz
+        - [Carlos Maltzahn, UC Santa Cruz](https://docs.google.com/presentation/d/1fseeMzKICszs_3IpVzu1bo1KyN65y5zgVJKwpetkhTs/edit?usp=sharing)
     - Discussion (45 minutes)
     - [Wrapup](https://drive.google.com/file/d/1aZgDSPvEcK-gTE_9b1T3D7Z_hcyzpVa1/view?usp=sharing) (3 minutes)
 - 2:00 pm -- End
